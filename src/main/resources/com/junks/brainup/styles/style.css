@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Outfit');
+
+
+#brainUP {
+    -fx-font-family: Lobster;
+    -fx-font-size: 35;
+}
+
+#signUpLabel {
+    -fx-font-family: Lobster;
+}
+#loginButton {
+    -fx-font-family: Lobster;
+    -fx-background-radius: 40;
+    -fx-background-color: linear-gradient(from 0.0% 19.4313% to 31.2796% 97.1564%, #f5f5f5 0.0%, #ff7b29 100.0%);
+    -fx-font-size: 15;
+}
+#signUpButton {
+    -fx-font-family: Lobster;
+    -fx-background-radius: 40;
+    -fx-background-color: linear-gradient(from 0.0% 19.4313% to 31.2796% 97.1564%, #f5f5f5 0.0%, #ff7b29 100.0%);
+    -fx-font-size: 15;
+}
+
+#profileLabel {
+    -fx-font-family: Lobster;
+    -fx-font-size: 20;
+}
+
+#wonLabel {
+    -fx-font-family: Lobster;
+}
+
+#allGamesLabel {
+    -fx-font-family: Lobster;
+}
+
+#lostGameLabel {
+    -fx-font-family: Lobster;
+}
+
+#countryLabel {
+    -fx-font-family: Lobster;
+}
+
+#sexLabel {
+    -fx-font-family: Lobster;
+}
+
+#mathsLabel {
+    -fx-font-family: Lobster;
+}
+
+#learReactFasterLabel {
+    -fx-font-family: Lobster;
+}
+
+#statLabel {
+    -fx-font-family: Lobster;
+    -fx-font-size: 14;
+}
+
+#maths {
+    -fx-font-family: Lobster;
+}
+
+#learnToReactsLabel {
+    -fx-font-family: Lobster;
+}
+
+#score {
+    -fx-font-family: Lobster;
+}
+
+#mnemonics {
+    -fx-font-family: Lobster;
+}
+
+#sexValue {
+    -fx-font-family: Lobster;
+}
+
+#countryValue {
+    -fx-font-family: Lobster;
+}

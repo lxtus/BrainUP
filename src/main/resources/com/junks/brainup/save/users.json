@@ -1,0 +1,12 @@
+[
+  {
+    "firstName": "Jack",
+    "lastName": "Jackson",
+    "password": "12345",
+    "country": "Ukraine",
+    "login": "jack",
+    "sex": "Male",
+    "scoreWon": 1,
+    "scoreLost": 0
+  }
+]
